@@ -1,14 +1,13 @@
-# Hi, I'm Jai 👋
+# Hi, I'm Jai
 
-**Quick facts:** Piano performance major turned ML engineer. I toured internationally 
+**Quick facts:** Music major turned ML engineer. I toured internationally
 with orchestras, then decided debugging neural nets was the next logical step.
 
-**What I'm into:** Audio ML • AI alignment research • Systems that make expertise accessible
+**What I'm into:** Audio ML • AI alignment research • Applied ML
 
-**Current project:** Built an AI piano teacher that gives feedback across 16 dimensions. 
-It's like having a conservatory professor in your pocket, minus the intimidation factor.
+**Current project:** AI Piano coach that teaches musicality, not just which notes to play.
+Like having a conservatory professor in your pocket, minus the intimidation factor.
 
-🏆 Won 2 SF hackathons • 🔧 Contributed to LangChain, JAX/Flax, HuggingFace  
-📍 San Francisco • 🎵 Still play piano (the humans haven't been replaced yet)
+🏆 Won 2 hackathons, hopefully more in the future • 🎵 Still play piano (we haven't been replaced yet)
 
 *"Discipline from music + curiosity from ML = interesting problems solved"*
