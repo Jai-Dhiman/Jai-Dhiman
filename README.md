@@ -9,5 +9,3 @@ with orchestras, then decided debugging neural nets was the next logical step.
 Like having a conservatory professor in your pocket, minus the intimidation factor.
 
 🏆 Won 2 hackathons, hopefully more in the future • 🎵 Still play piano (we haven't been replaced yet)
-
-*"Discipline from music + curiosity from ML = interesting problems solved"*
