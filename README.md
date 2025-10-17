@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jai 👋
 
-<!--
-**Jai-Dhiman/Jai-Dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quick facts:** Piano performance major turned ML engineer. I toured internationally 
+with orchestras, then decided debugging neural nets was the next logical step.
 
-Here are some ideas to get you started:
+**What I'm into:** Audio ML • AI alignment research • Systems that make expertise accessible
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current project:** Built an AI piano teacher that gives feedback across 16 dimensions. 
+It's like having a conservatory professor in your pocket, minus the intimidation factor.
+
+🏆 Won 2 SF hackathons • 🔧 Contributed to LangChain, JAX/Flax, HuggingFace  
+📍 San Francisco • 🎵 Still play piano (the humans haven't been replaced yet)
+
+*"Discipline from music + curiosity from ML = interesting problems solved"*
