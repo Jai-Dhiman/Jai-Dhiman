@@ -6,6 +6,6 @@ better than you'd think.
 
 **What I'm into:** Audio ML • AI alignment research • Applied ML
 
-Won 2 hackathons, hopefully more in the future • Still play piano (we haven't been replaced yet)
+Won 3 hackathons, hopefully more in the future • Still play piano (we haven't been replaced yet)
 
 Currently: Teaching machines to listen to music the way humans do.
