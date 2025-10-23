@@ -5,7 +5,9 @@ I went from touring internationally with orchestras, to debugging transformers, 
 better than you'd think.
 
 **What I'm into:** Audio ML • AI alignment research • Applied ML
+
 Won 3 hackathons, hopefully more in the future • Still play piano 
+
 **Currently:** Teaching machines to *listen* to music the way humans do.
 
 > *“Still play piano — we haven’t been replaced yet.”*
