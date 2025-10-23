@@ -10,12 +10,18 @@ better than you'd think.
 
 > *“Still play piano — we haven’t been replaced yet.”*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true) 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jai-Dhiman&theme=high-contrast&hide_border=true&area=true)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Dhiman&theme=high-contrast&hide_border=true&area=true"/>
+</p>
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.jaidhiman.com"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
