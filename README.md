@@ -11,10 +11,7 @@ better than you'd think.
 > *“Still play piano — we haven’t been replaced yet.”*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jai-Dhiman&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jai-Dhiman&theme=radical&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jai-Dhiman&theme=react-dark&hide_border=true&area=true)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=radical)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
