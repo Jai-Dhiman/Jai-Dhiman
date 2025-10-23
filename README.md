@@ -21,3 +21,5 @@ better than you'd think.
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.jaidhiman.com"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
+
+![Metrics](./github-metrics.svg)
