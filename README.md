@@ -36,7 +36,6 @@ Won 3 hackathons, hopefully more in the future • Still play piano
 <p align="left">
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.jaidhiman.com"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:jai.dhiman@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </p>
 
 ---
