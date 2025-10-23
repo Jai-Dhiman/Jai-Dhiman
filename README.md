@@ -13,10 +13,6 @@ better than you'd think.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true) 
 
----
-
-## Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.jaidhiman.com"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white"/></a>
