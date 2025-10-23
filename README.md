@@ -13,7 +13,7 @@ Won 3 hackathons, hopefully more in the future • Still play piano
 > *“Still play piano — we haven’t been replaced yet.”*
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-Dhiman&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true)  
@@ -21,17 +21,17 @@ Won 3 hackathons, hopefully more in the future • Still play piano
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🎹 crescendAI](https://github.com/Jai-Dhiman/crescendAI) | AI-driven piano performance feedback using Audio Spectrogram Transformer | **Rust + PyTorch** |
-| [🔒 Capture](https://github.com/Jai-Dhiman/capture) | Privacy-first social platform with multimodal recommendation system | **TypeScript + Rust + Qdrant** |
-| [🧭 ml-learning](https://github.com/Jai-Dhiman/ml-learning) | 4-stage Constitutional AI pipeline from Anthropic papers | **Python** |
+| [crescendAI](https://github.com/Jai-Dhiman/crescendAI) | AI-driven piano performance feedback using Audio Spectrogram Transformer | **Rust + PyTorch** |
+| [Capture](https://github.com/Jai-Dhiman/capture) | Privacy-first social platform with multimodal recommendation system | **TypeScript + Rust + Qdrant** |
+| [ml-learning](https://github.com/Jai-Dhiman/ml-learning) | 4-stage Constitutional AI pipeline from Anthropic papers | **Python** |
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
