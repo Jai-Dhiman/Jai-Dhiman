@@ -19,6 +19,3 @@ better than you'd think.
 </p>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-![Spotify](https://spotify-github-profile.vercel.app/api/view?...params...)
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?...params...)
