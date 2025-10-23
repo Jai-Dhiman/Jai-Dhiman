@@ -11,9 +11,6 @@ better than you'd think.
 > *“Still play piano — we haven’t been replaced yet.”*
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jai-Dhiman&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true) 
 
 ---
