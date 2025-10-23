@@ -10,13 +10,12 @@ better than you'd think.
 
 > *“Still play piano — we haven’t been replaced yet.”*
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true"/>
+  <br/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Dhiman&theme=high-contrast&hide_border=true&area=true"/>
+</div>
 
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jai-Dhiman&theme=high-contrast&hide_border=true&area=true"/>
-</p>
 
 
 <p align="left">
