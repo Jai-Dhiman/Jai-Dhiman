@@ -9,7 +9,6 @@ better than you'd think.
 **Currently:** Teaching machines to *listen* to music the way humans do.
 
 > *“Still play piano — we haven’t been replaced yet.”*
----
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true) 
 
