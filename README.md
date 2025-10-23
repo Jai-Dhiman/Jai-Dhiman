@@ -37,7 +37,3 @@ Won 3 hackathons, hopefully more in the future • Still play piano
   <a href="https://www.linkedin.com/in/jai-d"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.jaidhiman.com"><img src="https://img.shields.io/badge/Website-121212?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/Jai-Dhiman/count.svg)
