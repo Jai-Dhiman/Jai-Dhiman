@@ -1,14 +1,11 @@
 # Hi, I'm Jai
 
 Music major turned ML engineer. 
-I went from touring internationally with orchestras, to debugging transformers, turns out the skills transfer 
-better than you'd think.
+I went from touring internationally with orchestras, to debugging transformers.
 
-**What I'm into:** Audio ML • AI alignment research • Applied ML
+**What I'm into:** Audio ML • Applied ML
 
-**Currently:** Teaching machines to *listen* to music the way humans do.
-
-> *“Still play piano — we haven’t been replaced yet.”*
+**Currently:** Teaching machines to listen to music the way humans do.
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Dhiman&layout=compact&theme=radical&hide_border=true"/>
